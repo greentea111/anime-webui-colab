@@ -1,7 +1,7 @@
 # 🚀 Colab
 ## 📒 Notebooks
 
-Head over to **🖼[Showcase (🚧WIP🚧)][showcase]✨** to see what the models might look like! :D
+Head over to **🖼[Showcase (🚧WIP🚧)][showcase]✨** to see what the models might look like! 
 
 | Colab Link | Model | 🤔  | Model Page | Count*
 | ---        | ---   | :---: | ---        | ---: |
